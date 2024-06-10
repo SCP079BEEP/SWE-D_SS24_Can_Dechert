@@ -1,4 +1,4 @@
-package Ex6;
+package Ex5;
 
 public interface Observer {
     void update();

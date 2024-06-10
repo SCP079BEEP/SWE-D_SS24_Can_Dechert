@@ -1,6 +1,6 @@
-package Ex6;
+package Ex5;
 
-public class User implements Observer {
+public class User implements Observer{
 
     private int ID;
     private String name;
